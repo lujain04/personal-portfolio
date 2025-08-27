@@ -45,7 +45,7 @@ const handleSubmit = () => {
       </div>
       <div className='app__footer-card'>
         <img src={images.mobile} alt ="email"/>
-        <a href='tel:(+962) 7-9116-5554' className='p-text'>(+962) 7-9116-5554</a>
+        <a href='tel:(+962) 7-9701-4111' className='p-text'>(+962) 7-9701-4111</a>
       </div>
     </div>
 
